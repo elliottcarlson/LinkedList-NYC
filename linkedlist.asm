@@ -1,6 +1,6 @@
 ; 'LinkedList NYC' printed out using a Linked List implementation in ASM
 ;
-; Elliott Carlson  -  trendinteractive@gmail.com
+; Elliott Carlson  -  x@sublim.nl
 
     extern malloc
     extern free
